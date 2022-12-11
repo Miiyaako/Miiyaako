@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kit
-- 👀 I’m interested in coding discord bots
+- 👀 I’m interested in coding small projects
 - 🌱 I’m currently learning Python and C++
 - 📫 Reach me by Discord! (kiit#1881)
 
